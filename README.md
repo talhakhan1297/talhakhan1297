@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhakhan1297
 - 👀 I’m interested in Flutter, Dart
-- 🌱 I’m currently learning Native Android, React JS
+- 🌱 I’m currently learning Native Android and React JS
 - 📫 How to reach me talhakhan1297@yahoo.com
 
 <!---
